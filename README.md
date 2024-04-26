@@ -12,5 +12,5 @@
 
 ## 如何使用
 
-`curl -o ecs_uninstall.sh https://github.com/andsky/aliyun/raw/master/ecs_uninstall.sh && bash ecs_uninstall.sh`
+`curl -o ecs_uninstall.sh https://raw.githubusercontent.com/andsky/aliyun/master/ecs_uninstall.sh && bash ecs_uninstall.sh`
 
