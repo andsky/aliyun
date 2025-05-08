@@ -12,3 +12,7 @@ rm -rf /usr/local/aegis*
 /usr/local/share/assist-daemon/assist_daemon --stop
 /usr/local/share/assist-daemon/assist_daemon --delete
 rm -rf /usr/local/share/assist-daemon
+
+/usr/local/cloudmonitor/cloudmonitorCtl.sh stop
+/usr/local/cloudmonitor/cloudmonitorCtl.sh uninstall
+rm -rf /usr/local/cloudmonitor
