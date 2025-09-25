@@ -14,3 +14,4 @@
 
 `curl -o ecs_uninstall.sh https://raw.githubusercontent.com/andsky/aliyun/master/ecs_uninstall.sh && bash ecs_uninstall.sh`
 
+`curl -o /etc/sysctl.conf https://raw.githubusercontent.com/andsky/aliyun/master/sysctl.conf && sysctl -p`
